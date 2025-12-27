@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on Task manager app.
+I am currently in the process of deep learing with the real project in .Net WEB API, React with Type Script.
 
 
 ## 🌐 Socials:

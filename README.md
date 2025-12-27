@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently in the process of deep learing with the real project in .Net WEB API, React with Type Script.
+I’m a Software Developer Trainee exploring .NET Web API and React with TypeScript, guided by clean architecture and AI mentorship. Passionate about building secure, scalable apps and learning full‑stack development step by step.
 
 
 ## 🌐 Socials:
